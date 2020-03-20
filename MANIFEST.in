@@ -1,0 +1,2 @@
+include uwsgi.ini
+graft vendor
